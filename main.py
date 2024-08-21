@@ -1,0 +1,1 @@
+print("Learning python from scratch 21/08/2024")
